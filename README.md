@@ -49,7 +49,7 @@ bloog/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/dharmendraksharmamet21-maker/bloog_bloom.git>
    cd bloog
    ```
 
